@@ -27,7 +27,7 @@
 
 ### Github 活跃度
 
-[![](https://activity-graph.herokuapp.com/graph?username=Minori-ty&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-![Minori-ty's github stats](https://github-readme-stats.vercel.app/api?username=Minori-ty&show_icons=true&theme=vue)
+[![](https://activity-graph.herokuapp.com/graph?username=3154591766&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Minori-ty's github stats](https://github-readme-stats.vercel.app/api?username=3154591766&show_icons=true&theme=vue)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Minori-ty)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3154581766)
